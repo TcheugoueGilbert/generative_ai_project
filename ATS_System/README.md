@@ -31,8 +31,8 @@ ATS Resume Expert is a Streamlit web application that leverages Google Gemini AI
 
 1. **Clone the repository:**
     ```sh
-    git clone <https://github.com/TcheugoueGilbert/generative_ai_project>
-    cd <generative_ai_project/ATS_System>
+    git clone https://github.com/TcheugoueGilbert/generative_ai_project
+    cd generative_ai_project/ATS_System
     ```
 
 2. **Create and activate a virtual environment:**
